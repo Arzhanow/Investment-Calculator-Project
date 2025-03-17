@@ -162,3 +162,5 @@ const inputIsValid = userInput.duration >= 1;
 {!inputIsValid && (
         <p className="center">Please, enter a duration greater than zero.</p>
       )}
+
+И с това приключваме дотук, като разбира се, приложението може да се надгражда още много!
